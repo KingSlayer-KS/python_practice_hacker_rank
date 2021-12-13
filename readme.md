@@ -1,14 +1,16 @@
 ### Python HackerRank Practice
 ------
-
+  
 List of Question:
 
-- [ ] Hello World: [link](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
+- [ ] [Hello World: ](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
 
-- [ ] Arithmetic operator: [link](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+- [ ] [Arithmetic operator: ](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
 
-- [ ] Python division: [link](https://www.hackerrank.com/challenges/python-division/problem)
+- [ ] [Python division: ](https://www.hackerrank.com/challenges/python-division/problem)
 
-- [ ] Loop: [link](https://www.hackerrank.com/challenges/python-loops/problem)
+- [ ] [Loop: ](https://www.hackerrank.com/challenges/python-loops/problem)
 
-- [ ] Function: [link](https://www.hackerrank.com/challenges/write-a-function/problem)
+- [ ] [Function:](https://www.hackerrank.com/challenges/write-a-function/problem)
+
+- [ ] [if else:](https://www.hackerrank.com/challenges/py-if-else/problem)
