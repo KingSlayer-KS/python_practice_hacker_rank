@@ -15,4 +15,5 @@ List of Question:
 
 + [ ] [if else:](https://www.hackerrank.com/challenges/py-if-else/problem)
 
-+ [ ] [if else:](https://www.hackerrank.com/challenges/python-print/problem)
+
++ [ ] [Runner Up](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
