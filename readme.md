@@ -13,6 +13,8 @@ List of Question:
 
 + [ ] [Function:](https://www.hackerrank.com/challenges/write-a-function/problem)
 
++ [ ] [Print Function:](https://www.hackerrank.com/challenges/python-print/problem)
+
 + [ ] [if else:](https://www.hackerrank.com/challenges/py-if-else/problem)
 
 + [ ] [lists:](https://www.hackerrank.com/challenges/py-if-else/problem)
