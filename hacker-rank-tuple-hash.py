@@ -1,3 +1,5 @@
-n=(4)
-x=('1','2')
-print(hash(x) )
+n = int(input())
+t = tuple(map(int, input().split()))
+print(hash(t))
+
+
