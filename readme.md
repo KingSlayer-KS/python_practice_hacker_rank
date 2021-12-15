@@ -19,6 +19,10 @@ List of Question:
 
 + [ ] [lists:](https://www.hackerrank.com/challenges/py-if-else/problem)
 
++ [ ] [lists Comprehension:](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+
 + [ ] [Finding Runner Up:](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 
 + [ ] [Tuple:](https://www.hackerrank.com/challenges/python-tuples/problem)
+
++ [ ] [Finding Percentage:](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
