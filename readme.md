@@ -26,3 +26,5 @@ List of Question:
 + [ ] [Tuple:](https://www.hackerrank.com/challenges/python-tuples/problem)
 
 + [ ] [Finding Percentage:](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
+
++ [ ] [Nested List:](https://www.hackerrank.com/challenges/nested-list/problem)
