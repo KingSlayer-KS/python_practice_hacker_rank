@@ -28,3 +28,5 @@ List of Question:
 + [ ] [Finding Percentage:](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 
 + [ ] [Nested List:](https://www.hackerrank.com/challenges/nested-list/problem)
+
++ [ ] [SwaP cASe:](https://www.hackerrank.com/challenges/swap-case/problem)
