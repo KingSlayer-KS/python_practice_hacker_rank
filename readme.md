@@ -3,7 +3,7 @@
   
 List of Question:
 
-+ [ ] [Hello World: ](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
++ [ ] [Hello World: ](https://www.hackerrank.com/challenges/py-hello-world/problem)
 
 + [ ] [Arithmetic operator: ](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 
