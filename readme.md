@@ -36,3 +36,5 @@ List of Question:
 + [ ] [Split N Join:](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 
 + [ ] [Mutation of Strings:](https://www.hackerrank.com/challenges/python-mutations/problem)
+
++ [ ] [SubStrings:](https://www.hackerrank.com/challenges/find-a-string/problem)
