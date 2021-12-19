@@ -5,7 +5,7 @@ List of Question:
 
 + [ ] [Hello World: ](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
 
-+ [ ] [Arithmetic operator: ](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
++ [ ] [Arithmetic operator: ](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 
 + [ ] [Python division: ](https://www.hackerrank.com/challenges/python-division/problem)
 
