@@ -37,4 +37,4 @@ List of Question:
 
 + [ ] [Mutation of Strings:](https://www.hackerrank.com/challenges/python-mutations/problem)
 
-+ [ ] [SubStrings:](https://www.hackerrank.com/challenges/find-a-string/problem)
++ [ ] [SubString in a given String:](https://www.hackerrank.com/challenges/find-a-string/problem)
