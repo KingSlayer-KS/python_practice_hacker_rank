@@ -1,4 +1,4 @@
-s = str(input()) 
+s = input() 
 print (any(i.isalnum()for i in s))
 print (any(i.isalpha()for i in s))
 print (any(i.isdigit()for i in s))
