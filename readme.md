@@ -42,3 +42,5 @@ List of Question:
 + [ ] [Text Alignment:](https://www.hackerrank.com/challenges/text-alignment/problem)
 
 + [ ] [Text Wrap:](https://www.hackerrank.com/challenges/text-wrap/problem?)
+
++ [ ] [Door Mat:](https://www.hackerrank.com/challenges/designer-door-mat/problem)
