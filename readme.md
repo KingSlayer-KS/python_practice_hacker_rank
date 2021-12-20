@@ -39,3 +39,4 @@ List of Question:
 
 + [ ] [String Validators:](https://www.hackerrank.com/challenges/string-validators/problem)
 
++ [ ] [Text Alignment:](https://www.hackerrank.com/challenges/text-alignment/problem)
