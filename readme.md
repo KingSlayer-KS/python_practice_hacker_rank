@@ -44,3 +44,5 @@ List of Question:
 + [ ] [Text Wrap:](https://www.hackerrank.com/challenges/text-wrap/problem?)
 
 + [ ] [Door Mat:](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+
++ [ ] [String Formatting:](https://www.hackerrank.com/challenges/python-string-formatting/problem)
