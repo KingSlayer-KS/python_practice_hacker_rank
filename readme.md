@@ -45,4 +45,4 @@ List of Question:
 
 + [ ] [Door Mat:](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 
-+ [ ] [String Foratting:](https://www.hackerrank.com/challenges/python-string-formatting/problem)
++ [ ] [String Formatting:](https://www.hackerrank.com/challenges/python-string-formatting/problem)
