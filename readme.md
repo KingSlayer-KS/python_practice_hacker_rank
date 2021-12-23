@@ -46,3 +46,5 @@ List of Question:
 + [ ] [Door Mat:](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 
 + [ ] [String Formatting:](https://www.hackerrank.com/challenges/python-string-formatting/problem)
+
++ [ ] [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
