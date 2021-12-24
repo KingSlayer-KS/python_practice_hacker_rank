@@ -48,3 +48,5 @@ List of Question:
 + [ ] [String Formatting:](https://www.hackerrank.com/challenges/python-string-formatting/problem)
 
 + [ ] [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
+
++ [ ] [Capitalize First Alphabet](https://www.hackerrank.com/challenges/capitalize/problem)
