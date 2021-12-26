@@ -50,3 +50,5 @@ List of Question:
 + [ ] [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 
 + [ ] [Capitalize First Alphabet](https://www.hackerrank.com/challenges/capitalize/problem)
+
++ [ ] [ Minion Game:](https://www.hackerrank.com/challenges/the-minion-game/problem)
