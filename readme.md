@@ -51,4 +51,6 @@ List of Question:
 
 + [ ] [Capitalize First Alphabet](https://www.hackerrank.com/challenges/capitalize/problem)
 
-+ [ ] [ Minion Game:](https://www.hackerrank.com/challenges/the-minion-game/problem)
++ [ ] [Minion Game:](https://www.hackerrank.com/challenges/the-minion-game/problem)
+
++ [ ] [Sets Introduction:](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
