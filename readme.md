@@ -56,3 +56,5 @@ List of Question:
 + [ ] [Sets Introduction:](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
 
 + [ ] [Sets .add():](https://www.hackerrank.com/challenges/py-set-add/problem)
+
++ [ ] [Sets Symmetric Difference:](https://www.hackerrank.com/challenges/symmetric-difference/problem)
