@@ -67,3 +67,5 @@ List of Question:
 + [ ] [Symmetric Difference 2:](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
 
 + [ ] [Difference:](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+
++ [ ] [.update() .symmetricdiffrenceupdate() .intersectionupdate() .diffrenceupdate()](https://www.hackerrank.com/challenges/py-set-mutations/problem)
