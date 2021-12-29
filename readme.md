@@ -65,3 +65,5 @@ List of Question:
 + [ ] [Solution Set .intersection():](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
 
 + [ ] [Symmetric Difference 2:](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
+
++ [ ] [Difference:](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
