@@ -63,3 +63,5 @@ List of Question:
 + [ ] [Set .union()](https://www.hackerrank.com/challenges/py-set-union/problem)
 
 + [ ] [Solution Set .intersection():](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+
++ [ ] [Symmetric Difference 2:](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
