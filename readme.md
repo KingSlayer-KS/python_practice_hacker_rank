@@ -61,3 +61,5 @@ List of Question:
 + [ ] [Solution Set .remove() .pop() .discard()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
 
 + [ ] [Set .union()](https://www.hackerrank.com/challenges/py-set-union/problem)
+
++ [ ] [Solution Set .intersection():](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
