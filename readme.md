@@ -58,4 +58,6 @@ List of Question:
 + [ ] [Sets .add():](https://www.hackerrank.com/challenges/py-set-add/problem)
 
 + [ ] [Sets Symmetric Difference:](https://www.hackerrank.com/challenges/symmetric-difference/problem)
-+ [ ] [Solution Set .remove() .pop() .discard()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop)
++ [ ] [Solution Set .remove() .pop() .discard()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+
++ [ ] [Set .union()](https://www.hackerrank.com/challenges/py-set-union/problem)
