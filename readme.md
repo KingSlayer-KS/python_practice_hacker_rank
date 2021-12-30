@@ -70,6 +70,10 @@ List of Question:
 
 + [ ] [.update() .symmetricdiffrenceupdate() .intersectionupdate() .diffrenceupdate()](https://www.hackerrank.com/challenges/py-set-mutations/problem)
 
+<<<<<<< HEAD
 + [ ] [itertools product:](https://www.hackerrank.com/challenges/input/problem)
+=======
++ [ ] [itertools product:](https://www.hackerrank.com/challenges/itertools-product/problem)
+>>>>>>> 62534fe02b50eb409d7bab9af228b025b0c41d70
 
 + [ ] [input():](https://www.hackerrank.com/challenges/input/problem)
