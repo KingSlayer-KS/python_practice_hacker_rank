@@ -54,3 +54,18 @@ List of Question:
 + [ ] [Minion Game:](https://www.hackerrank.com/challenges/the-minion-game/problem)
 
 + [ ] [Sets Introduction:](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+
++ [ ] [Sets .add():](https://www.hackerrank.com/challenges/py-set-add/problem)
+
++ [ ] [Sets Symmetric Difference:](https://www.hackerrank.com/challenges/symmetric-difference/problem)
++ [ ] [Solution Set .remove() .pop() .discard()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+
++ [ ] [Set .union()](https://www.hackerrank.com/challenges/py-set-union/problem)
+
++ [ ] [Solution Set .intersection():](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+
++ [ ] [Symmetric Difference 2:](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
+
++ [ ] [Difference:](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+
++ [ ] [.update() .symmetricdiffrenceupdate() .intersectionupdate() .diffrenceupdate()](https://www.hackerrank.com/challenges/py-set-mutations/problem)
