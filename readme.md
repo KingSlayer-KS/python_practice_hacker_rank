@@ -47,9 +47,9 @@ List of Question:
 
 + [ ] [String Formatting:](https://www.hackerrank.com/challenges/python-string-formatting/problem)
 
-+ [ ] [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
++ [ ] [Alphabet Rangoli:](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 
-+ [ ] [Capitalize First Alphabet](https://www.hackerrank.com/challenges/capitalize/problem)
++ [ ] [Capitalize First Alphabet:](https://www.hackerrank.com/challenges/capitalize/problem)
 
 + [ ] [Minion Game:](https://www.hackerrank.com/challenges/the-minion-game/problem)
 
