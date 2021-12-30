@@ -69,3 +69,7 @@ List of Question:
 + [ ] [Difference:](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
 
 + [ ] [.update() .symmetricdiffrenceupdate() .intersectionupdate() .diffrenceupdate()](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+
++ [ ] [itertools product:](https://www.hackerrank.com/challenges/input/problem)
+
++ [ ] [input():](https://www.hackerrank.com/challenges/input/problem)
