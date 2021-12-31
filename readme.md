@@ -77,3 +77,5 @@ List of Question:
 + [ ] [input():](https://www.hackerrank.com/challenges/input/problem)
 
 + [ ] [itertools permutations:](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+
++ [ ] [collections.counter():](https://www.hackerrank.com/challenges/collections-counter/problem)
