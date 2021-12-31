@@ -79,3 +79,5 @@ List of Question:
 + [ ] [itertools permutations:](https://www.hackerrank.com/challenges/itertools-permutations/problem)
 
 + [ ] [collections.counter():](https://www.hackerrank.com/challenges/collections-counter/problem)
+
++ [ ] [Calender day_name:](https://www.hackerrank.com/challenges/calendar-module/problem)
