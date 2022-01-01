@@ -1,4 +1,4 @@
 a = int(input())
-b = int(input())
-print(a//b)
-print(float(a/b))
+aa = int(input())
+print(a//aa)
+print(float(a/aa))
