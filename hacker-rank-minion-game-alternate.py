@@ -1,5 +1,5 @@
 
-def minion_game(s):
+def minion_game(S):
     s1=0
     s2=0
     vow='AEIOU'
@@ -20,8 +20,8 @@ def minion_game(s):
 
 
 if __name__ == '__main__':
-    s = input()
-    minion_game(s)
+    S = input()
+    minion_game(S)
 
 
 
