@@ -1,4 +1,4 @@
-def print_rangoli(size):
+def print_rangoli(S):
     
     tes =list(map(chr,range(97,123)))
     x =tes[n-1::-1]+tes[1:n]
