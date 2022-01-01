@@ -1,3 +1,3 @@
 n = int(input())
-for i in range (0,n):
-    print(pow(i,2)) 
+for o in range (0,n):
+    print(pow(o,2)) 
