@@ -1,4 +1,4 @@
 n = int(input())
-for o in range(n):
-    o+=1                                
-    print (o , end='')
+for i in range(n):
+    i+=1                                
+    print (i , end='')
