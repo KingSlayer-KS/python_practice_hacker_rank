@@ -71,7 +71,13 @@ List of Question:
 + [ ] [.update() .symmetricdiffrenceupdate() .intersectionupdate() .diffrenceupdate()](https://www.hackerrank.com/challenges/py-set-mutations/problem)
 
 + [ ] [itertools product:](https://www.hackerrank.com/challenges/input/problem)
-=======
+
 + [ ] [itertools product:](https://www.hackerrank.com/challenges/itertools-product/problem)
 
 + [ ] [input():](https://www.hackerrank.com/challenges/input/problem)
+
++ [ ] [itertools permutations:](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+
++ [ ] [collections.counter():](https://www.hackerrank.com/challenges/collections-counter/problem)
+
++ [ ] [Calender day_name:](https://www.hackerrank.com/challenges/calendar-module/problem)
