@@ -87,4 +87,6 @@ List of Question:
 + [ ] [try and except:](https://www.hackerrank.com/challenges/exceptions/problem)
 + [ ] [nametuple:](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
 
-+ [ ] [defaultdict:](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
++ [ ] [DefaultDict:](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
+
++ [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
