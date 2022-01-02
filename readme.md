@@ -83,3 +83,5 @@ List of Question:
 + [ ] [Calender day_name:](https://www.hackerrank.com/challenges/calendar-module/problem)
 
 + [ ] [Polor Co-ordinate:](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+
++ [ ] [try and except:](https://www.hackerrank.com/challenges/exceptions/problem)
