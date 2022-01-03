@@ -97,6 +97,6 @@ List of Question:
 
 + [ ] [Deque:](https://www.hackerrank.com/challenges/py-collections-deque/problem)
 
-+ [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
++ [ ] [Divmod:](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 
 + [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)

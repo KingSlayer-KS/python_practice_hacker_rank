@@ -1,0 +1,5 @@
+f,u = int(input()),int(input())
+c=divmod(f,u)
+print(f//u)
+print(f%u)
+print(c)
