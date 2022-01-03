@@ -99,4 +99,4 @@ List of Question:
 
 + [ ] [Divmod:](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 
-+ [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
++ [ ] [combinations:](https://www.hackerrank.com/challenges/itertools-combinations/problem)
