@@ -90,3 +90,13 @@ List of Question:
 + [ ] [DefaultDict:](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 
 + [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+
++ [ ] [Regex:](https://www.hackerrank.com/challenges/incorrect-regex/problem)
+
++ [ ] [combinations_with_replacement:](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
+
++ [ ] [Deque:](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+
++ [ ] [Divmod:](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
+
++ [ ] [combinations:](https://www.hackerrank.com/challenges/itertools-combinations/problem)
