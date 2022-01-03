@@ -91,9 +91,9 @@ List of Question:
 
 + [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 
-+ [ ] [Regex:](https://www.hackerrank.com/challenges/incorrect-regex/)
++ [ ] [Regex:](https://www.hackerrank.com/challenges/incorrect-regex/problem)
 
-+ [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
++ [ ] [combinations_with_replacement:](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
 
 + [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 
