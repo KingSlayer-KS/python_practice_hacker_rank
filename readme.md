@@ -95,7 +95,7 @@ List of Question:
 
 + [ ] [combinations_with_replacement:](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
 
-+ [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
++ [ ] [Deque:](https://www.hackerrank.com/challenges/py-collections-deque/problem)
 
 + [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 
