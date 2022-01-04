@@ -100,3 +100,5 @@ List of Question:
 + [ ] [Divmod:](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 
 + [ ] [combinations:](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+
++ [ ] [mod and pow:](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
