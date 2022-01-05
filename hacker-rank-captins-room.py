@@ -6,3 +6,5 @@ for i in rooms:
         f.add(i)
         u.add(i)
     else :
+        u.discard(i)
+print(*u)
