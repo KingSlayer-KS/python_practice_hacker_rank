@@ -105,4 +105,6 @@ List of Question:
 
 + [ ] [Integers Comes in All Sizes:](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
 
-+ [ ] [Captins Room:](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
++ [ ] [Captin's Room:](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
+
++ [ ] [.issubset():](https://www.hackerrank.com/challenges/py-check-subset/problem)
