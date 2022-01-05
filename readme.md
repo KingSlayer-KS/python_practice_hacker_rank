@@ -108,3 +108,5 @@ List of Question:
 + [ ] [Captin's Room:](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
 
 + [ ] [.issubset():](https://www.hackerrank.com/challenges/py-check-subset/problem)
+
++ [ ] [Strict Subset:](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
