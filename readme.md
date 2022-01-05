@@ -104,3 +104,5 @@ List of Question:
 + [ ] [mod and pow:](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
 
 + [ ] [Integers Comes in All Sizes:](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+
++ [ ] [Captins Room:](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
