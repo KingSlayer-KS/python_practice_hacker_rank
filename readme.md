@@ -114,3 +114,5 @@ List of Question:
 + [ ] [Zipped:](https://www.hackerrank.com/challenges/zipped/problem)
 
 + [ ] [Eval():](https://www.hackerrank.com/challenges/python-eval/problem)
+
++ [ ] [all(),any():](https://www.hackerrank.com/challenges/any-or-all/problem)
