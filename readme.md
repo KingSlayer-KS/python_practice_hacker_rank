@@ -110,3 +110,5 @@ List of Question:
 + [ ] [.issubset():](https://www.hackerrank.com/challenges/py-check-subset/problem)
 
 + [ ] [Strict Subset:](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
+
++ [ ] [Zipped:](https://www.hackerrank.com/challenges/zipped/problem)
