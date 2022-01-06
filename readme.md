@@ -81,3 +81,32 @@ List of Question:
 + [ ] [collections.counter():](https://www.hackerrank.com/challenges/collections-counter/problem)
 
 + [ ] [Calender day_name:](https://www.hackerrank.com/challenges/calendar-module/problem)
+
++ [ ] [Polor Co-ordinate:](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+
++ [ ] [try and except:](https://www.hackerrank.com/challenges/exceptions/problem)
++ [ ] [nametuple:](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
+
++ [ ] [DefaultDict:](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
+
++ [ ] [OderedDict:](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+
++ [ ] [Regex:](https://www.hackerrank.com/challenges/incorrect-regex/problem)
+
++ [ ] [combinations_with_replacement:](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
+
++ [ ] [Deque:](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+
++ [ ] [Divmod:](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
+
++ [ ] [combinations:](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+
++ [ ] [mod and pow:](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
+
++ [ ] [Integers Comes in All Sizes:](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+
++ [ ] [Captin's Room:](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
+
++ [ ] [.issubset():](https://www.hackerrank.com/challenges/py-check-subset/problem)
+
++ [ ] [Strict Subset:](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
