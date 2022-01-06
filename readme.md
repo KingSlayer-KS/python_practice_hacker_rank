@@ -113,4 +113,4 @@ List of Question:
 
 + [ ] [Zipped:](https://www.hackerrank.com/challenges/zipped/problem)
 
-+ [ ] [Solution for eval():](https://www.hackerrank.com/challenges/python-eval/problem)
++ [ ] [Eval():](https://www.hackerrank.com/challenges/python-eval/problem)
