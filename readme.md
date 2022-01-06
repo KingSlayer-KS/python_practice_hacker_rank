@@ -112,3 +112,5 @@ List of Question:
 + [ ] [Strict Subset:](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
 
 + [ ] [Zipped:](https://www.hackerrank.com/challenges/zipped/problem)
+
++ [ ] [Solution for eval():](https://www.hackerrank.com/challenges/python-eval/problem)
