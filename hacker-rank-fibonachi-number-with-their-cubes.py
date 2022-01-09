@@ -1,5 +1,5 @@
 from math import sqrt 
-cube = lambda x: x*x*x 
+cube = lambda x: pow(x,3) 
 x=[]
 
 def fibonacci(n):
