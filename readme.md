@@ -120,3 +120,5 @@ List of Question:
 + [ ] [finding floatingpoint number:](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
 
 + [ ] [torsional angle:](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
+
++ [ ] [fibonachi number with their cubes:](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
