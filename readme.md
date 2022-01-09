@@ -118,3 +118,5 @@ List of Question:
 + [ ] [all(),any():](https://www.hackerrank.com/challenges/any-or-all/problem)
 
 + [ ] [finding floatingpoint number:](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+
++ [ ] [torsional angle:](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
