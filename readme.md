@@ -122,3 +122,5 @@ List of Question:
 + [ ] [torsional angle:](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
 
 + [ ] [fibonachi number with their cubes:](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+
++ [ ] [re.split():](https://www.hackerrank.com/challenges/re-split/problem)
