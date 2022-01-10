@@ -116,3 +116,15 @@ List of Question:
 + [ ] [Eval():](https://www.hackerrank.com/challenges/python-eval/problem)
 
 + [ ] [all(),any():](https://www.hackerrank.com/challenges/any-or-all/problem)
+
++ [ ] [finding floatingpoint number:](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+
++ [ ] [torsional angle:](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
+
++ [ ] [fibonachi number with their cubes:](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+
++ [ ] [re.split():](https://www.hackerrank.com/challenges/re-split/problem)
+
++ [ ] [groups regex:](https://www.hackerrank.com/challenges/re-group-groups/problem)
+
++ [ ] [findall & finditer:](https://www.hackerrank.com/challenges/re-group-groups/problem)
