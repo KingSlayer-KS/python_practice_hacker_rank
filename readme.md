@@ -126,3 +126,5 @@ List of Question:
 + [ ] [re.split():](https://www.hackerrank.com/challenges/re-split/problem)
 
 + [ ] [groups regex:](https://www.hackerrank.com/challenges/re-group-groups/problem)
+
++ [ ] [findall & finditer:](https://www.hackerrank.com/challenges/re-group-groups/problem)
