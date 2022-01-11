@@ -136,3 +136,5 @@ List of Question:
 + [ ] [Validating Phone Number:](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 
 + [ ] [Validating and Parsing Email Addresses:](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
+
++ [ ] [Hex Color Code:](https://www.hackerrank.com/challenges/hex-color-code/problem)
