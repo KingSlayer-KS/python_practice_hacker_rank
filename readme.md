@@ -140,3 +140,5 @@ List of Question:
 + [ ] [Hex Color Code:](https://www.hackerrank.com/challenges/hex-color-code/problem)
 
 + [ ] [HTML parser1:](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
+
++ [ ] [UID:](https://www.hackerrank.com/challenges/validating-uid/problem)
