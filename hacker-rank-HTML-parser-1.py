@@ -11,7 +11,7 @@ class MyHTMLParser(HTMLParser):
         for key, val in attrs:
             print("-> {0} > {1}".format(key, val))
 parser = MyHTMLParser()
-n = int(input())
+n = int(input()) 
 for i in range(n):
     parser.feed(input())
 
