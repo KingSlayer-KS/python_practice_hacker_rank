@@ -144,3 +144,5 @@ List of Question:
 + [ ] [HTML parser2:](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
 
 + [ ] [UID:](https://www.hackerrank.com/challenges/validating-uid/problem)
+
++ [ ] [HTML attribute:](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
