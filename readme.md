@@ -150,3 +150,5 @@ List of Question:
 + [ ] [XML1:](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
 
 + [ ] [XML2:](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
+
++ [ ] [Standaradizing mobile numbers:](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
