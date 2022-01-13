@@ -152,3 +152,5 @@ List of Question:
 + [ ] [XML2:](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
 
 + [ ] [Standaradizing mobile numbers:](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
+
++ [ ] [Decorators 2:](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
