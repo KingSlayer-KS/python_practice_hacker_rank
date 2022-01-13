@@ -148,3 +148,5 @@ List of Question:
 + [ ] [HTML attribute:](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
 
 + [ ] [XML1:](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
+
++ [ ] [XML2:](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
