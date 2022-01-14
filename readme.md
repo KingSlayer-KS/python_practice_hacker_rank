@@ -166,3 +166,5 @@ List of Question:
 + [ ] [zeros-ones:](https://www.hackerrank.com/challenges/np-concatenate/problem)
 
 + [ ] [eye and identity:](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
+
++ [ ] [array maths:](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
