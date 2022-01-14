@@ -162,3 +162,5 @@ List of Question:
 + [ ] [flatten transpose:](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
 
 + [ ] [concatnate:](https://www.hackerrank.com/challenges/np-concatenate/problem)
+
++ [ ] [zeros-ones:](https://www.hackerrank.com/challenges/np-concatenate/problem)
