@@ -1,5 +1,3 @@
-
-import re
 import numpy
 
 def arrays(k):
