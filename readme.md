@@ -160,3 +160,5 @@ List of Question:
 + [ ] [shape and reshape:](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
 
 + [ ] [flatten transpose:](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
+
++ [ ] [concatnate:](https://www.hackerrank.com/challenges/np-concatenate/problem)
