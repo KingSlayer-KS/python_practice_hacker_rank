@@ -158,3 +158,5 @@ List of Question:
 + [ ] [Arrays:](https://www.hackerrank.com/challenges/np-arrays/problem)
 
 + [ ] [shape and reshape:](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
+
++ [ ] [flatten transpose:](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
