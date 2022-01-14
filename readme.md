@@ -156,3 +156,5 @@ List of Question:
 + [ ] [Decorators 2:](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)
 
 + [ ] [Arrays:](https://www.hackerrank.com/challenges/np-arrays/problem)
+
++ [ ] [shape and reshape:](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
