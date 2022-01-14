@@ -168,3 +168,17 @@ List of Question:
 + [ ] [eye and identity:](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
 
 + [ ] [array maths:](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
+
++ [ ] [ceil floor rint:](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
+
++ [ ] [var std mean:](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
+
++ [ ] [determinant:](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
+
++ [ ] [numpy min max:](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+
++ [ ] [sum product:](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)
+
++ [ ] [inner outer product:](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
+
++ [ ] [Polynomials:](https://www.hackerrank.com/challenges/np-polynomials/problem)
