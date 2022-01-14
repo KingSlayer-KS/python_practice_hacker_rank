@@ -1,5 +1,5 @@
 import numpy
-k= numpy.array(input().split(),int)
+l= numpy.array(input().split(),int)
 
-print (numpy.zeros((k),dtype = numpy.int))
-print (numpy.ones((k),dtype = numpy.int))
+print (numpy.zeros((l),dtype = numpy.int))
+print (numpy.ones((l),dtype = numpy.int))
