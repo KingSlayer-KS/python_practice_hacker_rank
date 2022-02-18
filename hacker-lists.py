@@ -1,6 +1,6 @@
 li = list()
-n = int(input())
-for i in range (n):
+no = int(input())
+for i in range (no):
     put = input() .split()
     #print (put)
     if put[0]=='insert':
